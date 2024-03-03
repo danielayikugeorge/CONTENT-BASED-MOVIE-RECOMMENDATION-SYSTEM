@@ -12,8 +12,8 @@ There are primarily three types of recommendation engines:
 
 3. **Collaborative Filtering-Based Recommendation Engine**: By identifying similar users based on their activities and preferences, this algorithm recommends items that one user has experienced but the other hasn't. It leverages the collaboration between users to provide personalized recommendations.
 
-## Features Added to the Content-Based Movie Recommendation System
-In our implementation using the scikit-learn library, we have included the following features:
+## Features Used
+In our implementation using the scikit-learn library, we used the following features:
 
 - movie_id: Unique identifier for each movie
 - title: Title of the movie
